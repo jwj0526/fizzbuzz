@@ -1,5 +1,6 @@
 
 def fibo(num):
+
     if num<2:
         return num
     else:
