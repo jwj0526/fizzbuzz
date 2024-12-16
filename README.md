@@ -1,5 +1,2 @@
 # fizzbuz
 
-print('hello')
-
-
