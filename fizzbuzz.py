@@ -1,8 +1,8 @@
 
-for i in range(1,15+1):
-    if i % 3 == 0:
-        print('fizz')
+for j in range(1,18+1):
+    if j % 3 == 0:
+        print('buzz')
     else :
-        print(i)
+        print(j)
 
 
